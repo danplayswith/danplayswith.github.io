@@ -1,4 +1,4 @@
-# Dev with Dan
+# Dan plays with Github
 
 Welcome to my GitHub page! 
 
